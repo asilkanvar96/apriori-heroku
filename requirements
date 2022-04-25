@@ -1,0 +1,9 @@
+pandas
+sklearn
+mlxtend
+json
+fastapi
+uvicorn
+gunicorn
+uvloop
+httptools
